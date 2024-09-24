@@ -9,7 +9,8 @@
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: #17142abb; /* Semi-transparent background */
+  /* background-color: #17142abb; */
+  background-color: #000000; /* Semi-transparent background */
   display: flex;
   justify-content: center;
   align-items: center;

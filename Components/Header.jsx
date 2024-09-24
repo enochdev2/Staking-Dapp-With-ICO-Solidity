@@ -49,7 +49,7 @@ const Header = ({ page }) => {
                 <img src="img/logo.svg" alt="" />
               </a>
 
-              <span className="header__tagline"> Crypto King</span>
+              <span className="header__tagline"> Defi Prince</span>
 
               <ul className="header__nav" id="header__nav">
                 {navigation.map((item, index) => (

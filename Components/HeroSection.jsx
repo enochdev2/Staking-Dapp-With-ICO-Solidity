@@ -56,7 +56,8 @@ const HeroSection = ({ poolDetails, addTokenMetaMask }) => {
           <div className="col-12 col-lg-7 col-xl-6">
             <div className="hero__content hero__content--first">
               <h1 className="hero__title">
-                <small>Crypto King</small>
+                <small>Defi Staking Platform</small>
+                <br />
                 Best return on your investment
               </h1>
 

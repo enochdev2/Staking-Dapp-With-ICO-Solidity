@@ -113,7 +113,7 @@ const Footer = () => {
               <small className="footer__copyright">
                 @Centure, 2024, Created by {""}
                 <a href="#" target="_blank">
-                  @BlockChainLearner
+                  @SchoolOfDapps
                 </a>
               </small>
             </div>

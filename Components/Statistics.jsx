@@ -5,8 +5,7 @@ const Statistics = ({ poolDetails }) => {
     <div className="section">
       <div className="container">
         <div className="row">
-          {poolDetails?.poolInfoArray
-            .map((pool, index) => (
+          {poolDetails?.poolInfoArray?.map((pool, index) => (
               <div key={index} className="col-12 col-sm-6 col-xl-3">
                 <div className="stats">
                   <span className="stats__value">

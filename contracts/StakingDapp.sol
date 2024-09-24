@@ -20,7 +20,7 @@ abstract contract ReentrancyGuard {
 
         _status = _NOT_ENTERED;
     }
-}
+} 
 
 pragma solidity ^0.8.0;
 
