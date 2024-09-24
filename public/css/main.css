@@ -134,6 +134,7 @@ ul {
   .container-sm,
   .container-xl,
   .container-xxl {
+    border-color: #16142a;
     max-width: 1140px;
   }
 }

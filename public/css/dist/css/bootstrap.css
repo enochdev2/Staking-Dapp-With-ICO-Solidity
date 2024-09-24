@@ -784,6 +784,7 @@ progress {
 .container-sm {
     --bs-gutter-x: 1.5rem;
     --bs-gutter-y: 0;
+    background-color: #031633;
     width: 100%;
     padding-right: calc(var(--bs-gutter-x) * 0.5);
     padding-left: calc(var(--bs-gutter-x) * 0.5);
@@ -794,6 +795,7 @@ progress {
 @media (min-width: 576px) {
     .container-sm,
     .container {
+        background-color: #031633;
         max-width: 540px;
     }
 }
@@ -802,6 +804,7 @@ progress {
     .container-md,
     .container-sm,
     .container {
+        background-color: #031633;
         max-width: 720px;
     }
 }
@@ -811,6 +814,7 @@ progress {
     .container-md,
     .container-sm,
     .container {
+        background-color: #031633;
         max-width: 960px;
     }
 }
@@ -821,6 +825,7 @@ progress {
     .container-md,
     .container-sm,
     .container {
+        background-color: #031633;
         max-width: 1140px;
     }
 }
@@ -832,6 +837,7 @@ progress {
     .container-md,
     .container-sm,
     .container {
+        background-color: #031633;
         max-width: 1320px;
     }
 }
